@@ -12,4 +12,7 @@ Major security issues are examined in the report, such as increased attack surfa
 * Era of Exploitation (2011-2019): Marked by the Mirai botnet attacks and the weaponization of weak credentials.
 * Era of Protection (2020-Present): Defined by "Security by Design" principles and regulatory frameworks like the U.S. IoT Cybersecurity Improvement Act.
 
-## Future Outlook The report further explores emerging defense mechanisms including: * Zero Trust Architecture: Moving beyond perimeter security to continuous authentication. * Edge Computing Security: Processing data locally to reduce latency and attack surfaces. * AI Integration: Using machine learning for behavioral analysis and predictive threat intelligence.
+## Future Outlook The report further explores emerging defense mechanisms including: 
+* Zero Trust Architecture: Moving beyond perimeter security to continuous authentication.
+* Edge Computing Security: Processing data locally to reduce latency and attack surfaces. 
+* AI Integration: Using machine learning for behavioral analysis and predictive threat intelligence.
