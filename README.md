@@ -16,3 +16,5 @@ Major security issues are examined in the report, such as increased attack surfa
 * Zero Trust Architecture: Moving beyond perimeter security to continuous authentication.
 * Edge Computing Security: Processing data locally to reduce latency and attack surfaces. 
 * AI Integration: Using machine learning for behavioral analysis and predictive threat intelligence.
+
+# This report was authored as part of a university assignment for Introduction to Cybersecurity to analyze the historical and future trends of IoT security.
